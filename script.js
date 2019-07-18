@@ -1,7 +1,7 @@
 'use strict';
 //#1
-let a;
-if (a == 1) {
+let = '1';
+if (a === 1) {
     console.log('true');
 } else {
     console.log('false');
@@ -51,6 +51,6 @@ if (month >= 1 && month <= 12) {
 }
 
 //#6
-for (let i = 2; i <= 100; i += 2) {
+for (let i = 0; i <= 100; i += 2) {
     console.log(i);
 }
