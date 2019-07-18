@@ -1,7 +1,7 @@
 'use strict';
 //#1
 let = '1';
-if (a === 1) {
+if (a === '1') {
     console.log('true');
 } else {
     console.log('false');
